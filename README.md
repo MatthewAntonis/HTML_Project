@@ -14,6 +14,8 @@
 
 6.) Make the site responsive using media queries. 
 
+There may have been more instructions but I cannot recall
+
 ## Notes: 
 - Created using Chrome
 
