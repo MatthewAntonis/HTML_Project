@@ -577,7 +577,7 @@ footer {
 /* Product header container */
 /* Background Image for both product and contact page */
 .page-with-background {
-    background-image:   url('../Images/Space.jpg');
+    background-image:   url('Images/Space.jpg');
     background-repeat: repeat;
 }
 
