@@ -1,10 +1,23 @@
-# HTML_COMP1002
+# Final Project - Retro Product Website
+ 
+## To Complete This Assignment: 
 
-This is a directory of all my completed works from my HTML, CSS, and JS course at Georgian College.
+1.) Create a retro website for a product before the internet began. 
 
-Difficulty Goes from Highest to Lowest:
-- Project
-- Assignment
+2.) Utilize 4 HTML pages, and at least one CSS and Javascript file.
 
-### January 9th 2023 - April 21st 2023
-### Grade Received: Needs to be updated by the Professor
+3.) Files contain valid, well-formatted, error-free code and helpful comments where applicable.
+
+4.) Incorporates a background image or gradient to enhance the visual appearance of the interface. 
+
+5.) Includes Images, animations, and or other stylistic effects. 
+
+6.) Make the site responsive using media queries. 
+
+## Notes: 
+- Created using Chrome
+
+### Assignment Due Date: ~April, 2023
+### Mark Received: Needs Grading by Professor
+
+View The Website Here... https://github.com/MatthewAntonis/HTML_Project
