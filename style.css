@@ -163,7 +163,7 @@ header {
 
 /* Set the background image for the hero section */
 .hero{
-    background-image: url('../Images/MainBackground2 copy.jpg');
+    background-image: url('Images/MainBackground2 copy.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
