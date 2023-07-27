@@ -277,59 +277,59 @@ header {
 }
 /* Game Images */
 .MarioHome {
-    background-image: url('../Images/SuperMarioBrosGIF.gif');
+    background-image: url('Images/SuperMarioBrosGIF.gif');
 }
 
 .ZeldaHome {
-    background-image: url('../Images/nes-zelda.gif');
+    background-image: url('Images/nes-zelda.gif');
 }
 
 .GalagaHome {
-    background-image: url('../Images/nes-galaga.gif');
+    background-image: url('Images/nes-galaga.gif');
 }
 
 .GalagaHome {
-    background-image: url('../Images/nes-galaga.gif');
+    background-image: url('Images/nes-galaga.gif');
 }
 
 .MetroidHome {
-    background-image: url('../Images/nes-metroid.gif');
+    background-image: url('Images/nes-metroid.gif');
 }
 
 .KirbyHome {
-    background-image: url('../Images/nes-kirby.gif');
+    background-image: url('Images/nes-kirby.gif');
 }
 
 .CastlevaniaHome {
-    background-image: url('../Images/nes-castlevania.gif');
+    background-image: url('Images/nes-castlevania.gif');
 }
 
 .FinalFantasyHome {
-    background-image: url('../Images/nes-final fantasy.gif');
+    background-image: url('Images/nes-final fantasy.gif');
 }
 
 .DonkeyKongHome {
-    background-image: url('../Images/nes-donkeykong.gif');
+    background-image: url('Images/nes-donkeykong.gif');
 }
 
 .DoubleDragonHome {
-    background-image: url('../Images/nes-doubledragon.gif');
+    background-image: url('Images/nes-doubledragon.gif');
 }
 
 .ContraHome {
-    background-image: url('../Images/nes-contra.gif');
+    background-image: url('Images/nes-contra.gif');
 }
 
 .DuckHuntHome {
-    background-image: url('../Images/nes-duckhunt.gif');
+    background-image: url('Images/nes-duckhunt.gif');
 }
 
 .KidIcarusHome {
-    background-image: url('../Images/nes-kidicarus.gif');
+    background-image: url('Images/nes-kidicarus.gif');
 }
 
 .MegaManHome {
-    background-image: url('../Images/nes-megaman.gif');
+    background-image: url('Images/nes-megaman.gif');
 }
 
 /* Feature title styling */
